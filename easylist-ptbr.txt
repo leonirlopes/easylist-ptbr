@@ -1,5 +1,4 @@
 [Adblock]
-! Checksum: jpyVOqKSR1S/njD/mhjvFw
 ||afilio.com.br/*
 ||assine.terra.com.br/*
 ||assoc-amazon.com/*
