@@ -44,7 +44,6 @@
 |http://sjs.sinajs.cn/blog7swf/*
 |http://visit.geocities.jp/visit.gif?*
 |http://www.2ya.biz/i/*
-|http://www.ig.com.br/email/header/*
 |http://www.tomshardware.com/cdntests_cedexis.php
 |https://vendasonline.terra.com.br/*
 ||afilio.com.br/*
@@ -154,7 +153,6 @@ uol.com.br##div.shop
 |http://hme.i.bol.com.br/campanha/*
 |http://home.img.uol.com.br/produtos/*
 |http://i0.ig.com/marketing/ofertas_faixa_email/*
-|http://i0.ig.com/publicador/*
 |http://idgnow.uol.com.br/refresh_script.js
 |http://image.ig.com.br/ultimosegundo/*/celular_imagem_texto.gif
 |http://images.google.com/extern_js/*
@@ -281,3 +279,17 @@ uol.com.br##div.shop
 ||tetoplex.com/supercanais/img/pub*
 ||topsy.com/*
 ||xatech.com^
+||pagead2.googlesyndication.com/pagead/*
+||creative.ak.fbcdn.net/*/flyers/*
+||zbar.static.zynga.com/static/zbar-new/images/background-tall/*
+||zbar.static.zynga.com/game-icons/*
+||zgn.static.zynga.com/snapi/r24711-prod/plugins/zbar/images/zbar_bg.png
+||zbar.static.zynga.com/static/zbar-new/templates/facebook_iframe_logotall-rotating/images/*
+||view.atdmt.com^
+||ads2.msads.net^
+||i0.ig.com/marketing/ofertas_faixa_email/igmail06/*
+||ig.com.br/email/header/*
+||ig.com/publicador/*
+||a.orkut.gmodules.com^
+||static4.orkut.com/ads/gen/*
+||2mdn.net^
