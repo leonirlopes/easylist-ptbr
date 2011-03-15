@@ -293,3 +293,9 @@ uol.com.br##div.shop
 ||a.orkut.gmodules.com^
 ||static4.orkut.com/ads/gen/*
 ||2mdn.net^
+##adscolumn
+##div#columna2
+uol.com.br##div#mod-shopping-body
+uol.com.br##div#mod-shopping
+uol.com.br##div#to
+uol.com.br##div.shop
