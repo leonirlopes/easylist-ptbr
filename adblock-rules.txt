@@ -23,7 +23,6 @@
 |http://i1.sinaimg.cn/*
 |http://idgnow.uol.com.br/imagens/parceiro*
 |http://idgnow.uol.com.br/marketplace.js
-|http://igshopping.ig.com.br/*
 |http://image.ig.com.br/ult_us/fixas/versao_2006/publicidade_full_banner.gif
 |http://image.weather.com/web/blank.gif
 |http://image2.sina.com.cn/blog/tmpl/v3/images/blank.gif
@@ -50,6 +49,7 @@
 ||assine.terra.com.br/*
 ||assoc-amazon.com/*
 ||bytagg.com/*
+||capture.pclicks.com^
 ||cedexis.net^
 ||connect.facebook.com^
 ||cpalead.com^
@@ -61,9 +61,14 @@
 ||i.pgcdn.com^
 ||i.uol.com.br/folha/furniture/4/ads/*
 ||i.uol.com.br/livraria/promocoes/*
+||i0.ig.com/css/shopping/*
+||i0.ig.com/marketing/*
+||ig.com.br/email/header/*
 ||ig.com.br/predicta/*
 ||ig.com.br/tempo/tempo.swf
+||igshopping.ig.com.br^
 ||img.uol.com.br/todaoferta/*
+||marketing.ig.com.br/ofertas_faixa_email/*
 ||predicta.com.br/*
 ||scorecardresearch.com^
 ||tempoagora.uol.com.br/*swf
@@ -146,7 +151,6 @@
 |http://hits.e.cl/cert/hit.dll?*
 |http://hme.i.bol.com.br/campanha/*
 |http://home.img.uol.com.br/produtos/*
-|http://i0.ig.com/marketing/ofertas_faixa_email/*
 |http://idgnow.uol.com.br/refresh_script.js
 |http://image.ig.com.br/ultimosegundo/*/celular_imagem_texto.gif
 |http://images.google.com/extern_js/*
@@ -261,7 +265,6 @@
 ||legendas.tv/estilos.css
 ||mackenzie.br/fileadmin/template/images/pixel.gif
 ||mackenzie.br/typo3/sysext/cms/tslib/media/icons_misc/content_client.gif
-||marketing.ig.com.br/ofertas_faixa_email/igmail01/*
 ||maxmind.com^
 ||message.csdn.net^
 ||mlstatic.com/*
