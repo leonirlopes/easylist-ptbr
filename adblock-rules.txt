@@ -32,14 +32,12 @@
 |http://visit.geocities.jp/visit.gif?*
 |http://www.2ya.biz/i/*
 ||2mdn.net^
-||a.ads2.msads.net^
 ||ads2.msads.net^
 ||adserver.hardsextube.com^
 ||afilio.com.br/*
 ||assine.terra.com.br/*
 ||assoc-amazon.com/*
 ||bytagg.com/*
-||capture.pclicks.com^
 ||capture.pclicks.com^
 ||cedexis.net^
 ||cpalead.com^
@@ -53,11 +51,7 @@
 ||i.uol.com.br/folha/furniture/4/ads/*
 ||i.uol.com.br/livraria/promocoes/*
 ||i0.ig.com/css/shopping/*
-||i0.ig.com/css/shopping/*
 ||i0.ig.com/marketing/*
-||i0.ig.com/marketing/*
-||i1.ig.com/igshopping/imagens/*
-||ig.com.br/email/header/*
 ||ig.com.br/email/header/*
 ||ig.com.br/predicta/*
 ||ig.com.br/tempo/tempo.swf
@@ -65,7 +59,6 @@
 ||igshopping.ig.com.br^
 ||img.uol.com.br/todaoferta/*
 ||js.ig.com^
-||marketing.ig.com.br/ofertas_faixa_email/*
 ||marketing.ig.com.br/ofertas_faixa_email/*
 ||predicta.com.br/*
 ||static.drtuber.com/templates/frontend/white/images/pl.gif
@@ -213,7 +206,6 @@
 ||oitorpedosms.com.br/wp-content/*
 ||placar.ultimosegundo.com.br^$third-party,domain=~ig.com.br
 ||tetoplex.com/supercanais/img/pub*
-||ig.com/publicador/*
 ||static4.orkut.com/ads/gen/*
 !
 ! Hiding rules
