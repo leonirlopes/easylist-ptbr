@@ -17,11 +17,17 @@ Enter this project: the goal is to (**collectively**) build a list of
 rules that can be used as a supplement to EasyList for those that have
 to live with Brazilian Portuguese sites.
 
+To use this list, simply subscribe to the URL:
+
+    https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt
+
+or [click here][3].
+
 Please, spread the word about this effort and contribute your rules to a
 nicer web experience (and faster/cheaper for those that are billed by
 the amount of data transferred, as is the case of 3G users).
 
-The list is under a ["Creative Commons 3.0 Attribution" License][3] and
+The list is under a ["Creative Commons 3.0 Attribution" License][4] and
 comments via the issues tracker are highly appreciated.
 
 
@@ -31,4 +37,5 @@ Rogério Theodoro de Brito.
 [0]: http://adblockplus.org/en/
 [1]: https://chrome.google.com/extensions/detail/gighmmpiobklfepjocnamgkkbiglidom
 [2]: https://adblockplus.org/en/subscriptions
-[3]: http://creativecommons.org/licenses/by/3.0/
+[3]: abp:subscribe?location=https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt&title=ABP%20pt-br
+[4]: http://creativecommons.org/licenses/by/3.0/
