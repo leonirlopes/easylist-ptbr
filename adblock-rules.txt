@@ -113,16 +113,10 @@
 !
 ! Unsorted
 !
-##adscolumn
-##div#columna2
 /followme-style.css
 /js/swfobject.js?*
 /player/player.swf
 ^shopping_uol^
-uol.com.br##div#mod-shopping
-uol.com.br##div#mod-shopping-body
-uol.com.br##div#to
-uol.com.br##div.shop
 |http://adclient-uol.lp.uol.com.br/wmbol2/bol-ad-top.html?*
 |http://apcmag.com/images/apc/skins/hp/*
 |http://api.tweetmeme.com/*
@@ -287,15 +281,16 @@ uol.com.br##div.shop
 ||zbar.static.zynga.com/static/zbar-new/templates/facebook_iframe_logotall-rotating/images/*
 ||view.atdmt.com^
 ||ads2.msads.net^
-||i0.ig.com/marketing/ofertas_faixa_email/igmail06/*
-||ig.com.br/email/header/*
 ||ig.com/publicador/*
 ||a.orkut.gmodules.com^
 ||static4.orkut.com/ads/gen/*
 ||2mdn.net^
+!
+! Hiding rules
+!
 ##adscolumn
 ##div#columna2
-uol.com.br##div#mod-shopping-body
 uol.com.br##div#mod-shopping
+uol.com.br##div#mod-shopping-body
 uol.com.br##div#to
 uol.com.br##div.shop
