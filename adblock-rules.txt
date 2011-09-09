@@ -74,7 +74,7 @@
 ||terra.com.br/metrics/
 ||trrsf.com.br/metrics/
 ||tvsupra.net/estatisticas.htm
-||vendasonline.terra.com.br/
+||vendasonline.terra.com.br^
 ||view.atdmt.com^
 ||visit.geocities.jp/visit.gif?*
 ||www.2ya.biz/i/
@@ -107,7 +107,7 @@
 |http://www.zap.com.br/parceiros/
 |http://www.zura.com.br/ztrack.jpeg?*
 |https://www.google.com/a/*ig.com.br/images/logo.gif?*
-||pmstrk.mercadolivre.com.br/
+||pmstrk.mercadolivre.com.br^
 !
 ! Unsorted
 !
@@ -197,7 +197,7 @@
 ||blstc.msn.com/br/csl/scp/img/13/1x1.gif
 ||calculadoradoamor.net^
 ||cassetadas.com.br^
-||clicrbs.com.br/
+||clicrbs.com.br^
 ||cydia.com.br^
 ||depoimento.com.br^
 ||dicasdiarias.com/wp-content/uploads/2010/02/
