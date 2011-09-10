@@ -60,7 +60,6 @@
 ||img.uol.com.br/todaoferta/
 ||ivitrine.buscape.com^
 ||jornaldotempo.uol.com.br/selos/assinantes/
-||js.ig.com^
 ||marketing.ig.com.br/ofertas_faixa_email/
 ||pmssrv.mercadolivre.com.br^
 ||predicta.com.br^
