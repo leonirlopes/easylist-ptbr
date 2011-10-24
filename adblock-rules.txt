@@ -22,6 +22,9 @@
 ||cbn.globoradio.globo.com/estaticos/temp/LogoCompraFacil.gif
 ||cedexis.net^
 ||comentarios.folha.com.br^
+!
+! Annoyances
+!
 ||connect.facebook.net/pt_BR/*$third-party
 ||cpalead.com^
 ||cs.adxpansion.com/public/ads.php?*
