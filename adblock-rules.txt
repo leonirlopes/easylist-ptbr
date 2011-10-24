@@ -17,7 +17,6 @@
 ||blogger.com/static/v1/widgets/
 ||bol.imguol.com/v2.0/img.jpg
 ||bytagg.com^
-||capture.pclicks.com^
 ||cbn.globoradio.globo.com/estaticos/img/BgTopLiquida.gif
 ||cbn.globoradio.globo.com/estaticos/js/analyticsTemporizador.js
 ||cbn.globoradio.globo.com/estaticos/temp/LogoCompraFacil.gif
@@ -105,6 +104,7 @@
 !
 ! Trackers
 !
+||capture.pclicks.com^
 |http://200.98.237.98/relogios.html?*
 |http://at.idg.com.br/at.gif?*
 |http://f.i.uol.com.br/x-cccccc.gif
