@@ -20,6 +20,14 @@
 ||cbn.globoradio.globo.com/estaticos/temp/LogoCompraFacil.gif
 ||cedexis.net^
 ||comentarios.folha.com.br^
+||imagem.buscape.com.br/cl2//buscape_selo88x31_Ultimate_officemobile.jpg
+||imagem.buscape.com.br/cl2//buscape_selo88x31_Ultimate_officemobile_mouseover.jpg
+||mlstatic.com^$third-party,domain=~mercadolivre.com.br
+||portaladsl.com.br/images/*$third-party
+||sqlservercentral.com/Resources/Images/ReadGate/guest-pass-1.png
+||sqlservercentral.com/Resources/Images/ReadGate/guest-pass-2.png
+||sqlservercentral.com/Resources/Images/ReadGate/guest-pass-3.png
+||sqlservercentral.com/Resources/Images/ReadGate/steve.png
 !
 ! Annoyances
 !
@@ -103,10 +111,10 @@
 ||www.2ya.biz/i/
 ||xatech.com/web_gear/chat/
 ||xiti.com^
+||xooimage.com/*.swf
 !
 ! Trackers
 !
-||capture.pclicks.com^
 |http://200.98.237.98/relogios.html?*
 |http://at.idg.com.br/at.gif?*
 |http://f.i.uol.com.br/x-cccccc.gif
@@ -129,6 +137,7 @@
 |http://www.zap.com.br/parceiros/
 |http://www.zura.com.br/ztrack.jpeg?*
 |https://www.google.com/a/*ig.com.br/images/logo.gif?*
+||capture.pclicks.com^
 ||pmstrk.mercadolivre.com.br^
 ||vitrine.buscape.com.br^
 ||www.comprafacil.com.br^
@@ -245,6 +254,7 @@ bol.uol.com.br##.holder-anuncio
 bol.uol.com.br##.toda-oferta-botao
 bol.uol.com.br##DIV.produto.area-enquete
 br.msn.com###shoppingmodule
+celulares.mercadolivre.com.br###mclicsQcat
 economia.estadao.com.br##.bb-md-news_slider.bb-sk-agora_no_estadao
 economia.estadao.com.br##DIV.container
 economia.estadao.com.br##SPAN.down
@@ -263,6 +273,8 @@ folha.uol.com.br##.column
 folha.uol.com.br##.header.terms
 folha.uol.com.br##.openBox.adsLibrary
 folha.uol.com.br##.openBox.adslibraryArticle
+freecode.com##.banner-imu.centered
+freecode.com##.banner-sky
 gastronomiaenegocios.uol.com.br###af-shopping-uol
 globo.com###divHeaderPublicidadeSuperBanner
 gowers.wordpress.com##.tpp
@@ -293,15 +305,21 @@ ig.com.br##.downloads.divisao
 ig.com.br##.pub-island.fl
 ig.com.br##.pub-ticker.fl
 ig.com.br##DIV#brtpSubAreaFaixa25
+informatica.mercadolivre.com.br###mclicsQcat
+informatica.mercadolivre.com.br###mclicsSkycrapper
 jornaldotempo.uol.com.br###banner2[style="height:240px;"]
 jornaldotempo.uol.com.br###banner_pag_prev
 jornaldotempo.uol.com.br###fbGeral
 linuxforums.org###block_html_1
 linuxondesktop.in###Gadget3.widget.Gadget
+mail.google.com##.Zs
 mail.google.com##.u8.FDerDe
 mail.mailig.ig.com.br###\:rl[title="iG Mail Mail by Google"][style="background-image: url(\"https://www.google.com/a/ig.com.br/images/logo.gif?alpha=1\"); background-position: left top; background-repeat: no-repeat;"]
 mail.mailig.ig.com.br##TD[height="95px"][bgcolor="#f8f8f8"][colspan="2"]
 maringa.odiario.com###boxVitrine
+mercadolivre.com.br###mclicsBottom
+mercadolivre.com.br###mclicsSkycrapper
+mercadolivre.com.br##.MClics-bottom
 msn.com##.flashInstall
 r7.com###ads-1
 r7.com##.loja
@@ -311,6 +329,9 @@ r7.com##DD.even
 r7.com##DD.odd
 r7.com##DIV#Square_Island
 r7.com##SPAN.preco
+slashdot.org###firehose-sections
+slashdot.org##.col_1
+sqlservercentral.com###registration-dropdown
 tutorialspoint.com##TABLE.right
 uol.com.br###banner-200x446-6-Area
 uol.com.br###banner-300x250-5-Area.moduloBanner
@@ -330,7 +351,11 @@ uol.com.br##div#mod-shopping
 uol.com.br##div#mod-shopping-body
 uol.com.br##div#to
 uol.com.br##div.shop
+vilamulher.terra.com.br###div-superbanner
+vilamulher.terra.com.br###sky
+vilamulher.terra.com.br##.island-publicidade
 wordaligned.org##DIV#footer
 wordaligned.org##DIV#sidebar
 wordaligned.org##DIV.comments
 wordaligned.org##IMG[src="/images/feed.png"]
+~t-mobile.co.uk,~channel4.com,~amusingplanet.com,~apple.com,~sportsdirect.com,~burningcamel.com,~prosperitybanktx.com,~repubblica.it,~mail.google.com,~mail.mailig.ig.com.br##.ads
