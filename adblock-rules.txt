@@ -23,6 +23,7 @@
 !
 ! Annoyances
 !
+||blogger.com/navbar.g?*
 ||connect.facebook.net/pt_BR/*$third-party
 ||cpalead.com^
 ||cs.adxpansion.com/public/ads.php?*
