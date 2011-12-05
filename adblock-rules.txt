@@ -13,8 +13,6 @@
 ||assine.terra.com.br^
 ||assoc-amazon.com^
 ||atendimento.globo.com/Portal/ISP/assineja/
-||blogger.com/static/v1/jsbin/
-||blogger.com/static/v1/widgets/
 ||bol.imguol.com/v2.0/img.jpg
 ||bytagg.com^
 ||cbn.globoradio.globo.com/estaticos/img/BgTopLiquida.gif
@@ -186,8 +184,6 @@
 |http://ultimosegundo.ig.com.br/painel_controle/
 |http://upsearch.uplexis.com.br/IDG/
 |http://www.bestlinux.com.br/plugins/system/CssJsCompress/
-|http://www.blogger.com/dyn-css/authorization.css?*
-|http://www.blogger.com/navbar.g?*
 |http://www.dsnextgen.com/?*
 |http://www.estadao.com.br/estadao/novo/img/blank.gif
 |http://www.estadao.com.br/estadao/novo/img/t.gif
