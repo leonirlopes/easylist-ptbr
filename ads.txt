@@ -19,6 +19,7 @@
 ||cnx-software.com/pic/support_cnxsoft.png
 ||comentarios.folha.com.br^
 ||estadao.com.br/paywall/*
+||extras.mailig.ig.com.br/ofertas_faixa_email/
 ||i0.ig.com/css/dls/images/bg_canal_menu.jpg?*
 ||i0.ig.com/ig/images/bg-home.png
 ||i0.statig.com.br/home/fechar.png
