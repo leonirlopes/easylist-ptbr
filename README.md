@@ -1,34 +1,40 @@
-# [Adblock Plus][0] rules for Brazilian Portuguese
+# Lista de regras para bloquear propagandas em Português do Brasil
 
-Since the web has become hard to use without seeing advertisements,
-solutions like [Adblock Plus][0] and [Adblock for Chrome][1] have
-emerged.
+Já que ficou muito difícil usar a web sem ver inúmeras propagandas (muitas
+vezes completamente intrusivas), soluções como o [Adblock Plus][0] e o
+[Adblock for Chrome][1] vieram à tona.
 
-Since those engines only deals with the *mechanics* of blocking content
-from your browser, some way to tell them *what* to block is provided by
-wonderful lists like the [EasyList][2] effort.
+Como esses programas lidam apenas com a *mecânica* de bloquear conteúdo para
+o seu navegador, nós precisamos de uma maneira de dizer a tais programas *o
+quê* bloquear, dando-lhes listas de regras, como a excelente lista
+[EasyList][2].
 
-Alas, most content that we want to block may be dependent on the
-location/origin of the site that we access: there are already lists for
-Germany, France, Romania, among others, but it doesn't seem to exist one
-that targets a high population: those from Brazil.
+Infelizmente, muito do conteúdo que nós desejamos bloquear é dependente
+na localização/origem dos sites que nós acessamos: existem listas prontas
+para Alemanha, França, Romênia, dentre outras, mas não existe uma que
+objetive uma grande população: a do Brasil.
 
-Enter this project: the goal is to (**collectively**) build a list of
-rules that can be used as a supplement to EasyList for those that have
+Aqui entra este projeto: o objetivo é *coletivamente*, contruir uma lista de
+regras que possam ser usasdas como um complemento para a EasyList para
+aqueles que queiram acessar sites em português brasileiro.
 to live with Brazilian Portuguese sites.
 
-To use this list, simply subscribe to the URL:
+Para usar a lista, simplesmente adicione o seguinte endereço no seu
+navegador:
 
     https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt
 
-or [click here][3].
+ou [clique aqui][3].
 
-Please, spread the word about this effort and contribute your rules to a
-nicer web experience (and faster/cheaper for those that are billed by
-the amount of data transferred, as is the case of 3G users).
+Por favor, compartilhe com outras pessoas a notícia sobre este esforço e
+contribua suas regras para que todos tenham uma melhor experiência com a web
+(e uma experiência mais rápida e mais barata para aqueles que tem planos de
+dados, como é o caso de muitos provedores de banda larga fixa ou móvel---2G,
+3G, 4G etc.).
 
-The list is under a ["Creative Commons 3.0 Attribution" License][4] and
-comments via the issues tracker are highly appreciated.
+A lista aqui está lançada sob a licença
+["Creative Commons 3.0 Attribution"][4] e comentários/bugs por através do
+github são muito apreciados.
 
 
 Rogério Theodoro de Brito.
