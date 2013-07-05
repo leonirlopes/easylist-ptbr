@@ -6,6 +6,9 @@ bol.uol.com.br##.toda-oferta-botao
 bol.uol.com.br##DIV.produto.area-enquete
 br.msn.com###shoppingmodule
 celulares.mercadolivre.com.br###mclicsQcat
+climatempo.com.br###bg-adtopo
+climatempo.com.br##.grid-1.top20.right
+climatempo.com.br##.publicidade-box-300x250.left.left5.top20
 economia.estadao.com.br##.bb-md-news_slider.bb-sk-agora_no_estadao
 economia.estadao.com.br##DIV.container
 economia.estadao.com.br##SPAN.down
@@ -15,6 +18,8 @@ economia.ig.com.br##.componente1.pubHorizontal.nobdb
 esportes.r7.com##A[title="Shopping"][href="http://shopping.r7.com"]
 esportes.r7.com##DIV.banner_miolo
 estadao.com.br###box-recommendations-fb
+facebook.com##.-cx-PRIVATE-ogAggregationTrendingList__wrap
+facebook.com##.ego_column.egoOrganicColumn
 folha.com.br###shopping
 folha.uol.com.br###bookstore
 folha.uol.com.br###classes
@@ -32,29 +37,47 @@ gowers.wordpress.com##.tpp
 ig.com.br###BF6F388D-5A38-457D-991A-A827E8F29D58.faixa
 ig.com.br###C5E63B4A-2E0E-47A9-A1CA-8C6719CFA8CB.faixa
 ig.com.br###E73AD71C-9E09-4180-B6C8-5EA5B44E44D3.faixa
+ig.com.br###PPA00612-2
 ig.com.br###PPA02114
 ig.com.br###PPA03406.halfPage.fl
 ig.com.br###\30 F7F830E-AB55-470C-A9E4-C7ADA67B2DA3.faixa
 ig.com.br###\32 155DE4A-ECAA-4C7F-9478-315B844ED5F3.faixa
+ig.com.br###\32 6DFE07D-ED8A-43E3-8CD8-7174FC25C2D8
+ig.com.br###\33 898A372-D928-4573-B8B7-A685E8CCAA54
+ig.com.br###\34 855FBB1-78C8-4876-A4CF-3DC69D7BF41F
 ig.com.br###\34 E22B79E-90BE-4BD6-ACBF-3B201C46CB34.HOPPA07612.gd12.fl
 ig.com.br###\35 D830B42-B194-484B-BF8D-80B23E502B15.faixa
+ig.com.br###\36 703B8F3-8848-43AC-8A26-9FE36523E480
 ig.com.br###\36 703B8F3-8848-43AC-8A26-9FE36523E480.faixa
 ig.com.br###\36 8DC459B-C5D3-4F72-9A18-7F7823B41B16.faixa
 ig.com.br###\37 78EC724-10DB-46DE-9B5C-CCA8F98E52F5.faixa
 ig.com.br###fechaIntervencao
+ig.com.br###igAsssistenciaTecnicaBarra
+ig.com.br###mega-banner
+ig.com.br###pub-IslandNoticia
+ig.com.br###pub-Middle1
 ig.com.br###pub-shop-horizontal
 ig.com.br###pub-superbanner
+ig.com.br###pubCE1
+ig.com.br###pubCE2
 ig.com.br###pubIntervencao
 ig.com.br###pubShopTop3
 ig.com.br###pubmaster2Box
 ig.com.br###pubsidebarMiddle
+ig.com.br###superbanner
 ig.com.br###tickerTexto-2
+ig.com.br###topo
+ig.com.br##.ad
 ig.com.br##.adTvFlash.getHover
 ig.com.br##.boxservicos
 ig.com.br##.boxservicos2.divisao.nopd.db[name="Servicos"]
 ig.com.br##.downloads.divisao
+ig.com.br##.faixaLimpa
 ig.com.br##.pub-island.fl
 ig.com.br##.pub-ticker.fl
+ig.com.br##.superbanner
+ig.com.br##.transparencia
+ig.com.br##DIV#FB168242-E7E0-42A6-B6BA-28730BF28E4B
 ig.com.br##DIV#brtpSubAreaFaixa25
 informatica.mercadolivre.com.br###mclicsQcat
 informatica.mercadolivre.com.br###mclicsSkycrapper
@@ -63,18 +86,31 @@ jornaldotempo.uol.com.br###banner_pag_prev
 jornaldotempo.uol.com.br###fbGeral
 linuxforums.org###block_html_1
 linuxondesktop.in###Gadget3.widget.Gadget
+linuxquestions.org##DIV[style="float: right; margin-left: 5px; margin-bottom: 5px; margin-top: -3px; margin-right: -3px"]
+mail.google.com###\:1qa
 mail.google.com##.Zs
 mail.google.com##.u8.FDerDe
 mail.mailig.ig.com.br###\:rl[title="iG Mail Mail by Google"][style="background-image: url(\"https://www.google.com/a/ig.com.br/images/logo.gif?alpha=1\"); background-position: left top; background-repeat: no-repeat;"]
+mail.mailig.ig.com.br##TD[bgcolor="#f8f8f8"]
 mail.mailig.ig.com.br##TD[height="95px"][bgcolor="#f8f8f8"][colspan="2"]
 maringa.odiario.com###boxVitrine
 mercadolivre.com.br###mclicsBottom
 mercadolivre.com.br###mclicsSkycrapper
 mercadolivre.com.br##.MClics-bottom
+michaelhyatt.com###attentionGrabberWrap
 msn.com##.flashInstall
+phoronix.com##EM
+poupaclique.ig.com.br###ban_rodape_interna_box
+poupaclique.ig.com.br##TD[align="center"]
+poupaclique.ig.com.br##TD[align="right"]
+poupaclique.ig.com.br##TD[background="http://images.ig.com.br/poupaclique/2005/menu_lat_esq_bg.gif"]
+poupaclique.ig.com.br##TD[bgcolor="#464646"]
+poupaclique.ig.com.br##TD[style="border-right: 1px solid #000; border-left: 1px solid #000; border-bottom: 1px solid #000;"]
 r7.com###ads-1
 r7.com##.loja
 r7.com##.produto
+r7.com##.r7-adv.r7-adv-island
+r7.com##.r7-adv.r7-adv-superBanner
 r7.com##A[href="http://shopping.r7.com/"]
 r7.com##DD.even
 r7.com##DD.odd
@@ -83,7 +119,13 @@ r7.com##SPAN.preco
 slashdot.org###firehose-sections
 slashdot.org##.col_1
 sqlservercentral.com###registration-dropdown
+thepcspy.com##.blocked
 tutorialspoint.com##TABLE.right
+tvig.ig.com.br###jmodal-1
+ultimosegundo.ig.com.br###PPA00612-1
+ultimosegundo.ig.com.br###PPA00612-3
+ultimosegundo.ig.com.br###\36 2E4D64D-398C-4653-ADEB-1204917A5957
+ultimosegundo.ig.com.br###jmodal-1
 uol.com.br###banner-200x446-6-Area
 uol.com.br###banner-300x250-5-Area.moduloBanner
 uol.com.br###banner-728x90-1-Area

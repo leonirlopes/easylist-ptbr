@@ -21,6 +21,9 @@
 |http://www.zura.com.br/ztrack.jpeg?*
 |https://www.google.com/a/*ig.com.br/images/logo.gif?*
 ||capture.pclicks.com^
+||cbn.globoradio.globo.com/estaticos/js/analyticsTemporizador.js
+||js.statig.com.br/metricas/gas.core.min.js
+||js.statig.com.br/metricas/metricas.extras.mailig.ig.com.br.js
 ||pmstrk.mercadolivre.com.br^
 ||vitrine.buscape.com.br^
 ||www.comprafacil.com.br^
