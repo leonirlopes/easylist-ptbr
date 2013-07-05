@@ -32,12 +32,19 @@ contribua suas regras para que todos tenham uma melhor experiência com a web
 dados, como é o caso de muitos provedores de banda larga fixa ou móvel---2G,
 3G, 4G etc.).
 
+# Bugs?
+
+A lista de regras deixa passar alguma propaganda? Bloqueia mais coisa do que
+deveria? Há regras que estão classificadas como de rastreamento, mas que
+deveriam ser classificados como de propaganda? Alguma outra coisa?
+
+[Relate o erro][5] para que possamos aprimorar nossa lista!
+
+# Licença
+
 A lista aqui está lançada sob a licença
 ["Creative Commons 3.0 Attribution"][4] e comentários/bugs por através do
 github são muito apreciados.
-
-
-Rogério Theodoro de Brito.
 
 
 [0]: http://adblockplus.org/en/
@@ -45,3 +52,4 @@ Rogério Theodoro de Brito.
 [2]: https://adblockplus.org/en/subscriptions
 [3]: abp:subscribe?location=https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt&title=ABP%20pt-br
 [4]: http://creativecommons.org/licenses/by/3.0/
+[5]: https://github.com/rbrito/easylist-ptbr/issues
