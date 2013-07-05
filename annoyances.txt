@@ -1,6 +1,3 @@
-!
-! Annoyances
-!
 ||blogger.com/navbar.g?*
 ||connect.facebook.net/pt_BR/*$third-party
 ||cpalead.com^

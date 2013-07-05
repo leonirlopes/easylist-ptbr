@@ -1,6 +1,3 @@
-!
-! Trackers
-!
 |http://200.98.237.98/relogios.html?*
 |http://at.idg.com.br/at.gif?*
 |http://f.i.uol.com.br/x-cccccc.gif

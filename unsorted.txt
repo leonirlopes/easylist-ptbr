@@ -1,6 +1,3 @@
-!
-! Unsorted
-!
 |http://adclient-uol.lp.uol.com.br/wmbol2/bol-ad-top.html?*
 |http://barra.uol.com.br/b/scripts/uol.js
 |http://busca2.globo.com/zap/
