@@ -24,8 +24,7 @@ navegador:
 
     https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt
 
-ou <a href="abp:subscribe?location=https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt&title=ABP%20pt-br">clique aqui</a>.
-
+ou <a href="abp:subscribe?location=https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt" title="Bloqueio de propagandas pt-BR">clique aqui</a>.
 
 Por favor, compartilhe com outras pessoas a notícia sobre este esforço e
 contribua suas regras para que todos tenham uma melhor experiência com a web
