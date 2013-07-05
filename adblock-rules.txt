@@ -20,7 +20,7 @@
 ||cnx-software.com/pic/support_cnxsoft.png
 ||comentarios.folha.com.br^
 ||estadao.com.br/paywall/*
-||extras.mailig.ig.com.br/ofertas_faixa_email/igmail01/*
+||extras.mailig.ig.com.br/ofertas_faixa_email/
 ||i0.ig.com/css/dls/images/bg_canal_menu.jpg?*
 ||i0.ig.com/ig/images/bg-home.png
 ||i0.statig.com.br/home/fechar.png
@@ -31,8 +31,7 @@
 ||mail-attachment.googleusercontent.com/images/cleardot.gif?*
 ||mail.mailig.ig.com.br/mail/images/c.gif?*
 ||mail.mailig.ig.com.br/mail/images/cleardot.gif
-||marketing.ig.com.br/ofertas_faixa_email/igmail01/ofertas.html
-||marketing.ig.com.br/ofertas_faixa_email/igmail01/superbanner.html
+||marketing.ig.com.br/ofertas_faixa_email/
 ||michaelhyatt.com/wp-content/plugins/attentionGrabber/img/buttons/*
 ||mlstatic.com^$third-party,domain=~mercadolivre.com.br
 ||paywall.estadao.com.br^
@@ -98,7 +97,6 @@
 ||jornaldotempo.uol.com.br/images/propag_vip_assine.gif?*
 ||jornaldotempo.uol.com.br/selos/assinantes/
 ||maringa.odiario.com/widgets/shopping/
-||marketing.ig.com.br/ofertas_faixa_email/
 ||msn.icarros.com.br/noticias/imagens/landing_tabelafipe_parceiros_icarros.gif
 ||pmssrv.mercadolivre.com.br^
 ||predicta.com.br^
@@ -134,8 +132,6 @@
 |http://img.terra.com.br/x.gif
 |http://mail.mailig.ig.com.br/mail/contacts/static/images/Transparent.gif
 |http://mail.mailig.ig.com.br/mail/images/2/grippy.png
-|http://mail.mailig.ig.com.br/mail/images/c.gif?*
-|http://mail.mailig.ig.com.br/mail/images/cleardot.gif
 |http://maislidas.ig.com.br/maislidas.gif?*
 |http://softwarelivre.org/images/0000/2644/hackergotich_portrait.jpg?*
 |http://softwarelivre.org/images/0001/7579/rss_2_big.gif?*
