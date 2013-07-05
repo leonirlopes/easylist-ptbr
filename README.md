@@ -24,7 +24,8 @@ navegador:
 
     https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt
 
-ou [clique aqui][3].
+ou <a "abp:subscribe?location=https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt&title=ABP%20pt-br">clique aqui</a>.
+
 
 Por favor, compartilhe com outras pessoas a notícia sobre este esforço e
 contribua suas regras para que todos tenham uma melhor experiência com a web
@@ -50,6 +51,5 @@ github são muito apreciados.
 [0]: http://adblockplus.org/en/
 [1]: https://chrome.google.com/extensions/detail/gighmmpiobklfepjocnamgkkbiglidom
 [2]: https://adblockplus.org/en/subscriptions
-[3]: abp:subscribe?location=https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt&title=ABP%20pt-br
 [4]: http://creativecommons.org/licenses/by/3.0/
 [5]: https://github.com/rbrito/easylist-ptbr/issues
