@@ -7,8 +7,8 @@
 ||adserver.hardsextube.com^
 ||adserver.ig.com.br^
 ||afilio.com.br^
-||assine.terra.com.br^
-||assoc-amazon.com^
+||assine.terra.com.br^$third-party
+||assoc-amazon.com^$third-party
 ||atendimento.globo.com/Portal/ISP/assineja/
 ||bol.imguol.com/v2.0/img.jpg
 ||bytagg.com^
@@ -17,9 +17,9 @@
 ||cedexis.net^
 ||clients2.google.com/availability/?*
 ||cnx-software.com/pic/support_cnxsoft.png
-||comentarios.folha.com.br^
-||estadao.com.br/estadao/v2012/*/paywall/*
-||estadao.com.br/paywall/*
+||comentarios.folha.com.br^$third-party
+||estadao.com.br/estadao/v2012/*/paywall/
+||estadao.com.br/paywall/
 ||extras.mailig.ig.com.br/ofertas_faixa_email/
 ||i0.ig.com/css/dls/images/bg_canal_menu.jpg?*
 ||i0.ig.com/ig/images/bg-home.png
@@ -32,7 +32,7 @@
 ||mail.mailig.ig.com.br/mail/images/c.gif?*
 ||mail.mailig.ig.com.br/mail/images/cleardot.gif
 ||marketing.ig.com.br/ofertas_faixa_email/
-||michaelhyatt.com/wp-content/plugins/attentionGrabber/img/buttons/*
+||michaelhyatt.com/wp-content/plugins/attentionGrabber/img/buttons/
 ||mlstatic.com^$third-party,domain=~mercadolivre.com.br
 ||paywall.estadao.com.br^
 ||portaladsl.com.br/images/*$third-party
@@ -265,9 +265,6 @@ climatempo.com.br##.publicidade-box-300x250.left.left5.top20
 economia.estadao.com.br##.bb-md-news_slider.bb-sk-agora_no_estadao
 economia.estadao.com.br##DIV.container
 economia.estadao.com.br##SPAN.down
-economia.ig.com.br###pub-shop-horizontal
-economia.ig.com.br###pubShopHorizontal
-economia.ig.com.br##.componente1.pubHorizontal.nobdb
 esportes.r7.com##A[title="Shopping"][href="http://shopping.r7.com"]
 esportes.r7.com##DIV.banner_miolo
 estadao.com.br###box-recommendations-fb
@@ -314,6 +311,7 @@ ig.com.br###pub-superbanner
 ig.com.br###pubCE1
 ig.com.br###pubCE2
 ig.com.br###pubIntervencao
+ig.com.br###pubShopHorizontal
 ig.com.br###pubShopTop3
 ig.com.br###pubmaster2Box
 ig.com.br###pubsidebarMiddle
@@ -324,6 +322,7 @@ ig.com.br##.ad
 ig.com.br##.adTvFlash.getHover
 ig.com.br##.boxservicos
 ig.com.br##.boxservicos2.divisao.nopd.db[name="Servicos"]
+ig.com.br##.componente1.pubHorizontal.nobdb
 ig.com.br##.downloads.divisao
 ig.com.br##.faixaLimpa
 ig.com.br##.pub-island.fl
