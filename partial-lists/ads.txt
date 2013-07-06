@@ -17,8 +17,8 @@
 ||clients2.google.com/availability/?*
 ||cnx-software.com/pic/support_cnxsoft.png
 ||comentarios.folha.com.br^
-||estadao.com.br/estadao/v2012/*/paywall/*
-||estadao.com.br/paywall/*
+||estadao.com.br/estadao/v2012/*/paywall/
+||estadao.com.br/paywall/
 ||extras.mailig.ig.com.br/ofertas_faixa_email/
 ||i0.ig.com/css/dls/images/bg_canal_menu.jpg?*
 ||i0.ig.com/ig/images/bg-home.png
@@ -31,7 +31,7 @@
 ||mail.mailig.ig.com.br/mail/images/c.gif?*
 ||mail.mailig.ig.com.br/mail/images/cleardot.gif
 ||marketing.ig.com.br/ofertas_faixa_email/
-||michaelhyatt.com/wp-content/plugins/attentionGrabber/img/buttons/*
+||michaelhyatt.com/wp-content/plugins/attentionGrabber/img/buttons/
 ||mlstatic.com^$third-party,domain=~mercadolivre.com.br
 ||paywall.estadao.com.br^
 ||portaladsl.com.br/images/*$third-party
