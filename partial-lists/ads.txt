@@ -6,8 +6,8 @@
 ||adserver.hardsextube.com^
 ||adserver.ig.com.br^
 ||afilio.com.br^
-||assine.terra.com.br^
-||assoc-amazon.com^
+||assine.terra.com.br^$third-party
+||assoc-amazon.com^$third-party
 ||atendimento.globo.com/Portal/ISP/assineja/
 ||bol.imguol.com/v2.0/img.jpg
 ||bytagg.com^
@@ -16,7 +16,7 @@
 ||cedexis.net^
 ||clients2.google.com/availability/?*
 ||cnx-software.com/pic/support_cnxsoft.png
-||comentarios.folha.com.br^
+||comentarios.folha.com.br^$third-party
 ||estadao.com.br/estadao/v2012/*/paywall/
 ||estadao.com.br/paywall/
 ||extras.mailig.ig.com.br/ofertas_faixa_email/
