@@ -12,9 +12,6 @@ climatempo.com.br##.publicidade-box-300x250.left.left5.top20
 economia.estadao.com.br##.bb-md-news_slider.bb-sk-agora_no_estadao
 economia.estadao.com.br##DIV.container
 economia.estadao.com.br##SPAN.down
-economia.ig.com.br###pub-shop-horizontal
-economia.ig.com.br###pubShopHorizontal
-economia.ig.com.br##.componente1.pubHorizontal.nobdb
 esportes.r7.com##A[title="Shopping"][href="http://shopping.r7.com"]
 esportes.r7.com##DIV.banner_miolo
 estadao.com.br###box-recommendations-fb
@@ -61,6 +58,7 @@ ig.com.br###pub-superbanner
 ig.com.br###pubCE1
 ig.com.br###pubCE2
 ig.com.br###pubIntervencao
+ig.com.br###pubShopHorizontal
 ig.com.br###pubShopTop3
 ig.com.br###pubmaster2Box
 ig.com.br###pubsidebarMiddle
@@ -71,6 +69,7 @@ ig.com.br##.ad
 ig.com.br##.adTvFlash.getHover
 ig.com.br##.boxservicos
 ig.com.br##.boxservicos2.divisao.nopd.db[name="Servicos"]
+ig.com.br##.componente1.pubHorizontal.nobdb
 ig.com.br##.downloads.divisao
 ig.com.br##.faixaLimpa
 ig.com.br##.pub-island.fl
