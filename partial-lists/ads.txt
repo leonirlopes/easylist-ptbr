@@ -1,4 +1,3 @@
-|http://www.estadao.com.br/estadao/v2012/*/paywall/*
 ||2mdn.net^
 ||adnews.com.br^
 ||adoperator.com/image/
@@ -18,6 +17,7 @@
 ||clients2.google.com/availability/?*
 ||cnx-software.com/pic/support_cnxsoft.png
 ||comentarios.folha.com.br^
+||estadao.com.br/estadao/v2012/*/paywall/*
 ||estadao.com.br/paywall/*
 ||extras.mailig.ig.com.br/ofertas_faixa_email/
 ||i0.ig.com/css/dls/images/bg_canal_menu.jpg?*
