@@ -8,6 +8,8 @@
 ||drtuber.com/footer_ads.html
 ||economia.estadao.com.br/includes/iframeTicker.htm
 ||ed.img.todaoferta.uol.com.br^
+||estadao.com.br/estadao/v2012/*/paywall/
+||estadao.com.br/paywall/
 ||f.i.uol.com.br/folha/furniture/*/images/
 ||f.i.uol.com.br/livraria/cover/
 ||gawkerassets.com/assets/base.v9/img/ui/x.gif
@@ -26,6 +28,7 @@
 ||i.uol.com.br/livraria/promocoes/
 ||i0.ig.com/css/shopping/
 ||i0.ig.com/marketing/
+||i0.statig.com.br/home/fechar.png
 ||i1.r7.com/shopping/zura/images/
 ||ibtimes.com/article/comments/
 ||idgnow.uol.com.br/imagens/parceiro*
@@ -51,7 +54,9 @@
 ||jornaldotempo.uol.com.br/images/propag_vip_assine.gif?*
 ||jornaldotempo.uol.com.br/selos/assinantes/
 ||maringa.odiario.com/widgets/shopping/
+||michaelhyatt.com/wp-content/plugins/attentionGrabber/img/buttons/
 ||msn.icarros.com.br/noticias/imagens/landing_tabelafipe_parceiros_icarros.gif
+||paywall.estadao.com.br^
 ||pmssrv.mercadolivre.com.br^
 ||predicta.com.br^
 ||pubshop.img.uol.com.br^
