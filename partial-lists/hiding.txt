@@ -85,6 +85,8 @@ informatica.mercadolivre.com.br###mclicsSkycrapper
 linuxforums.org###block_html_1
 linuxondesktop.in###Gadget3.widget.Gadget
 linuxquestions.org##DIV[style="float: right; margin-left: 5px; margin-bottom: 5px; margin-top: -3px; margin-right: -3px"]
+login.oiinternet.com.br##.advertisement
+login.oiinternet.com.br##.theAd
 mail.google.com###\:1qa
 mail.google.com##.Zs
 mail.google.com##.u8.FDerDe
