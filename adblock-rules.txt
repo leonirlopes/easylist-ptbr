@@ -268,7 +268,6 @@ economia.estadao.com.br##SPAN.down
 esportes.r7.com##A[title="Shopping"][href="http://shopping.r7.com"]
 esportes.r7.com##DIV.banner_miolo
 estadao.com.br###box-recommendations-fb
-facebook.com###facebook
 facebook.com##.-cx-PRIVATE-ogAggregationTrendingList__wrap
 facebook.com##.ego_column.egoOrganicColumn
 folha.com.br###shopping
