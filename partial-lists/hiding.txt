@@ -92,6 +92,7 @@ mail.mailig.ig.com.br###\:rl[title="iG Mail Mail by Google"][style="background-i
 mail.mailig.ig.com.br##TD[bgcolor="#f8f8f8"]
 mail.mailig.ig.com.br##TD[height="95px"][bgcolor="#f8f8f8"][colspan="2"]
 maringa.odiario.com###boxVitrine
+meiahora.ig.com.br###largePub
 mercadolivre.com.br###mclicsBottom
 mercadolivre.com.br###mclicsSkycrapper
 mercadolivre.com.br##.MClics-bottom

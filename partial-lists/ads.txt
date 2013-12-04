@@ -27,6 +27,7 @@
 ||mail.mailig.ig.com.br/mail/images/c.gif?
 ||mail.mailig.ig.com.br/mail/images/cleardot.gif
 ||marketing.ig.com.br/ofertas_faixa_email/
+||meiahora.ig.com.br/public/images/bg/pubBg.png
 ||mlstatic.com^$third-party,domain=~mercadolivre.com.br
 ||portaladsl.com.br/images/$third-party
 ||rt01.ig.com.br/realtime/ibtx_v25/module/comments/imgs/pattern*.jpg
