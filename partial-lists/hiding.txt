@@ -100,6 +100,12 @@ mercadolivre.com.br###mclicsSkycrapper
 mercadolivre.com.br##.MClics-bottom
 michaelhyatt.com###attentionGrabberWrap
 msn.com##.flashInstall
+odia.ig.com.br###EJEADA00102
+odia.ig.com.br###EJEADA00102b
+odia.ig.com.br###EJEADA02002
+odia.ig.com.br###area11
+odia.ig.com.br###area3
+odia.ig.com.br###subarea21
 phoronix.com##EM
 poupaclique.ig.com.br###ban_rodape_interna_box
 poupaclique.ig.com.br##TD[align="center"]
