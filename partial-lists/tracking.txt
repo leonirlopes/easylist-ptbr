@@ -28,4 +28,5 @@
 !
 ! Ativar a regra seguinte para privacidade? Ver issue #4.
 ! ||connect.facebook.net^$third-party
+! ||facebook.com^$third-party
 !
