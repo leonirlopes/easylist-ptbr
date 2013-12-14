@@ -25,3 +25,7 @@
 ||vitrine.buscape.com.br^
 ||zap.com.br/parceiros/
 ||zura.com.br/ztrack.jpeg?
+!
+! Ativar a regra seguinte para privacidade? Ver issue #4.
+! ||connect.facebook.net^$third-party
+!
