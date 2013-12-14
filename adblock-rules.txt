@@ -38,7 +38,6 @@
 ||vgleaks.com/wp-content/themes/megazine_v1-06/images/icon/dark/top-sliding-bullet.png
 ||affinyze.net^$third-party
 ||blogger.com/navbar.g?
-||connect.facebook.net^$third-party
 ||cpalead.com^
 ||cs.adxpansion.com/public/ads.php?
 ||data.coremetrics.com/eluminate?
@@ -149,6 +148,10 @@
 ||vitrine.buscape.com.br^
 ||zap.com.br/parceiros/
 ||zura.com.br/ztrack.jpeg?
+!
+! Ativar a regra seguinte para privacidade? Ver issue #4.
+! ||connect.facebook.net^$third-party
+!
 ||adclient-uol.lp.uol.com.br/wmbol2/bol-ad-top.html?
 ||barra.uol.com.br/b/scripts/uol.js
 ||bestlinux.com.br/plugins/system/CssJsCompress/
