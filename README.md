@@ -30,7 +30,7 @@ Por favor, compartilhe com outras pessoas a notícia sobre este esforço e
 contribua suas regras para que todos tenham uma melhor experiência com a web
 (e uma experiência mais rápida e mais barata para aqueles que tem planos de
 dados, como é o caso de muitos provedores de banda larga fixa ou móvel---2G,
-3G, 4G etc.).
+3G, 4G etc., sem nos esquecermos de quem usa linha discada, é claro).
 
 # Bugs?
 
@@ -43,7 +43,7 @@ deveriam ser classificados como de propaganda? Alguma outra coisa?
 # Licença
 
 A lista aqui está lançada sob a licença
-["Creative Commons 3.0 Attribution"][4] e comentários/bugs por através do
+["Creative Commons 3.0 Attribution"][4] e comentários/bugs através do
 github são muito apreciados.
 
 
