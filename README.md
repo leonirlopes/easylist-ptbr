@@ -52,3 +52,7 @@ github são muito apreciados.
 [2]: https://adblockplus.org/en/subscriptions
 [4]: http://creativecommons.org/licenses/by/3.0/
 [5]: https://github.com/rbrito/easylist-ptbr/issues
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rbrito/easylist-ptbr/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
