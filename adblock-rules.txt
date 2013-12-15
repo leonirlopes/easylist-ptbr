@@ -50,7 +50,6 @@
 ||estadao.com.br/paywall/
 ||f.i.uol.com.br/folha/furniture/*/images/
 ||f.i.uol.com.br/livraria/cover/
-||facebook.com^$third-party
 ||gawkerassets.com/assets/base.v9/img/ui/x.gif
 ||guiasp.com.br/guiasp/site/promocoes/img/
 ||h.imguol.com/2009/shoppinguoltop4.gif
@@ -151,6 +150,7 @@
 !
 ! Ativar a regra seguinte para privacidade? Ver issue #4.
 ! ||connect.facebook.net^$third-party
+! ||facebook.com^$third-party
 !
 ||adclient-uol.lp.uol.com.br/wmbol2/bol-ad-top.html?
 ||barra.uol.com.br/b/scripts/uol.js
