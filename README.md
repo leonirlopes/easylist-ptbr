@@ -24,7 +24,19 @@ navegador:
 
     https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt
 
-ou <a href="abp:subscribe?location=https%3A%2F%2Fraw.github.com%2Frbrito%2Feasylist-ptbr%2Fmaster%2Fadblock-rules.txt&amp;title=Easylist%2Fpt-br%20supplement" title="Bloqueio de propagandas pt-BR">clique aqui</a>.
+ou <a id="url" title="Bloqueio de propagandas pt-BR">clique aqui</a>.
+
+<script>
+window.onload = function formurl() {
+    var left = "abp:";
+    var middle = "subscribe?location=https%3A%2F%2Fraw.github.com%2Frbrito%2Feasylist-ptbr%2Fmaster%2Fadblock-rules.txt";
+    var right = "&amp;title=Easylist%2Fpt-br%20supplement";
+
+    var a = document.getElementById("url");
+    a.href = left + middle + right;
+    a.innerHTML = "clique aqui";
+};
+</script>
 
 Por favor, compartilhe com outras pessoas a notícia sobre este esforço e
 contribua suas regras para que todos tenham uma melhor experiência com a web
