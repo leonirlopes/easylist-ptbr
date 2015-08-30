@@ -31,8 +31,8 @@ window.addEventListener("load", formurl);
 
 function formurl() {
     var left = "abp:";
-    var middle = "subscribe?location=https%3A%2F%2Fraw.github.com%2Frbrito%2Feasylist-ptbr%2Fmaster%2Fadblock-rules.txt";
-    var right = "&amp;title=Easylist%2Fpt-br%20supplement";
+    var middle = "subscribe?location=https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt";
+    var right = "&title=Easylist/pt-br%20supplement";
 
     var a = document.getElementById("url");
     a.href = left + middle + right;
