@@ -24,7 +24,9 @@ navegador:
 
     https://raw.github.com/rbrito/easylist-ptbr/master/adblock-rules.txt
 
-ou <a url="http://preview.tinyurl.com/p899nrc" title="Bloqueio de propagandas pt-BR">clique aqui</a>.
+ou [clique aqui][clique-aqui].
+
+[clique-aqui]: http://preview.tinyurl.com/p899nrc
 
 Por favor, compartilhe com outras pessoas a notícia sobre este esforço e
 contribua suas regras para que todos tenham uma melhor experiência com a web
